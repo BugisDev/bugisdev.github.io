@@ -672,6 +672,11 @@ ul.sub-menu {
   width: 100%;
 }
 
+#testimonial {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
 .vertical-center{
   display: table-cell;
   vertical-align: middle;
@@ -1176,7 +1181,6 @@ ul.elements li > i{
       display: none;
     }
     #action.responsive {
-      padding-top:120px !important;
       height:0px !important;
     }
 
