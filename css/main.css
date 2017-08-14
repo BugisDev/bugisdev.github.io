@@ -144,7 +144,7 @@
   }
 
   .carousel-indicators.visible-xs li {
-    border-color: #D29948;
+    border-color: #00aab4;
     border-width: 2px;
     height: 12px;
     margin: 0 5px 0 0;
@@ -152,7 +152,7 @@
   }
 
   .carousel-indicators.visible-xs li.active {
-    background: rgba(210, 153, 72, 0.7);
+    background: rgba(0, 170, 180, 0.7);
   }
 
 
@@ -801,7 +801,7 @@ ul.sub-menu {
 }
 
 .social-profile {
-  background: none repeat scroll 0 0 rgba(137, 97, 46, 0.8);
+  background: none repeat scroll 0 0 rgba(0, 170, 180, 0.7);
   display: none;
   height: 100%;
   position: absolute;
@@ -853,8 +853,8 @@ ul.sub-menu {
 }
 
 .social-profile .nav-pills li a:hover {
-  color: #89612e;
-  border-color: #89612e;
+  color: #00aab4;
+  border-color: #00aab4;
 }
 
 .person-info h2 {
